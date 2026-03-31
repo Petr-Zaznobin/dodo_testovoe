@@ -1,0 +1,10 @@
+=== Отчёт (прототип, по времени) ===
+Видео: videos/video1.mp4
+Кадров обработано: 18066
+Событий в логе: 635
+Пар «empty -> approach»: 20
+Среднее время empty -> approach (сек, min_seat_time_sec=5.0): 0.050
+Пар «empty -> sat»: 2
+Среднее время empty -> sat (сек, min_seat_time_sec=5.0): 5.050
+События: /Users/petrzaznobin/Desktop/Programming/dodo/events.csv
+Видео: /Users/petrzaznobin/Desktop/Programming/dodo/TEST_OUTPUT
